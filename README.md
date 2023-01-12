@@ -6,4 +6,4 @@ In this project I focus on creating an interactive dashboard using an open-sourc
 
 The dashboard may take up to 1 minute to fully load all the data.
 
-![Dashboard](https://miguelhermar.github.io/CO2-Emission-Dashboard/)
+![Dashboard](dashboard.jpeg)
